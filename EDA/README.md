@@ -1,0 +1,1 @@
+Performed Exploratory Data Analysis (EDA) on a Movies dataset to uncover trends, patterns, and insights related to genres, ratings, popularity, revenue, and other key movie attributes using Python data analysis and visualization libraries.
